@@ -1,0 +1,38 @@
+创建的报告: 
+	2023/8/8	11:39:12
+
+项目名: guyaea.aep
+
+将源文件收集到: 
+	D:\Adobe\AfterEffects\guyaea\guyaea文件夹
+
+收集的源文件: 全部
+
+收集的合成: 
+	合成 1
+	
+收集的文件数: 9
+
+收集的文件大小: 49.6 MB
+
+收集的源文件: 
+	D:\Adobe\AfterEffects\guyaea\1.png
+	D:\Adobe\AfterEffects\guyaea\2.png
+	D:\Adobe\AfterEffects\guyaea\3.png
+	D:\Adobe\AfterEffects\guyaea\genshin.mp4
+	D:\Adobe\AfterEffects\guyaea\start.wav
+	D:\PolarisS\Documents\Tencent Files\3207905831\nt_qq\nt_data\Pic\2023-08\Ori\f7a32bbe5135fbb9a2d1a6436eec5719.jpg
+	D:\PolarisS\Pictures\Camera Roll\{1D394C42-FFAD-9E1E-163E-4328924DD51D}.jpg
+	D:\PolarisS\Pictures\Camera Roll\{C94CFCAA-B270-D8C9-8196-360B47A588B2}.jpg
+	D:\PolarisS\Pictures\Logo\guyaea.png
+	
+渲染增效工具:
+	经典 3D
+	
+使用的效果: 2
+
+效果: 高斯模糊
+	
+效果: 填充
+	
+
